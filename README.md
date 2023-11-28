@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrenik Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate student programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gupt0120&label=Profile%20views&color=0e75b6&style=flat" alt="gupt0120" /> </p>
 
